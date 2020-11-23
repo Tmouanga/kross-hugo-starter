@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross trial Template"
 [[menu.main]]
-URL = ""
+URL = "NEW"
 name = "NEW"
 weight = "3"
 [[menu.main]]
